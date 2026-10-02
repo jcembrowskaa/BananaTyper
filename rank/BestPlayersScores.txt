@@ -1,0 +1,10 @@
+MagdaGessler 114.075
+bee 42.9
+dexter 20
+gerald 69.975
+hero 36
+mario 19
+newPlayer 51
+pandaPlayer 178
+playerone 72
+sadge 0
